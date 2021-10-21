@@ -1,6 +1,7 @@
-Project for setting up an IPfire system in front of internal network, and to add private backupserver etc.
+***Project for setting up an IPfire system in front of internal network, and to add private backupserver etc.***
 
-Structure of servers:    
+**Structure of servers:**
+    
 #IPfire proxy - Elitebook 2560p  
 -Suricata IDS  
 -Tripwire signature database  
