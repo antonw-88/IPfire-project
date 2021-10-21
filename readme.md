@@ -7,9 +7,9 @@ Structure of servers:
 -DNSSEC
 -Firewall config - tbd
 
-#Backup server - Elitebook 2560p
--Only ssh open on custom port(2022?)
--Tripwire signature database
--SElinux
--CEPH single node cluster(for learning purposes...)
+#Backup server - Elitebook 2560p  
+-Only ssh open on custom port(2022?)  
+-Tripwire signature database  
+-SElinux  
+-CEPH single node cluster(for learning purposes...)  
 https://technologyrss.com/how-to-install-ceph-cluster-on-centos-7-using-single-server/
