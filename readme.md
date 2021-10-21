@@ -1,13 +1,13 @@
 # ***Project for setting up an IPfire system in front of internal network (and to add relevant extra infrastructure such as private backupserver etc).***
 
 ## **Structure of servers:**    
-## *IPfire proxy - Elitebook 2560p*
+*IPfire proxy - Elitebook 2560p*
 -Suricata IDS  
 -Tripwire signature database  
 -DNSSEC  
 -Firewall config - tbd  
 
-## *Backup server - Elitebook 2560p*
+*Backup server - Elitebook 2560p*
 -Only ssh open on custom port(2022?)  
 -Tripwire signature database  
 -SElinux  
